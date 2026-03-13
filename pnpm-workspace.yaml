@@ -1,0 +1,3 @@
+onlyBuiltDependencies:
+  - '@repus/hexo-word-counter'
+  - hexo-util
