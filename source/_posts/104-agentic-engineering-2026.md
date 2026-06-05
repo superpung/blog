@@ -13,6 +13,8 @@ categories: [观点]
 
 三个月前我发过一篇《我所知道的全部 Claude Code 技巧》，拿到了 91.3 万阅读。当时 Kevin Rose 问我该用哪个 IDE，我的回答是："不用 IDE，只用 `plan.md` 文件加语音。"
 
+<!--more-->
+
 这种做法过去叫 **vibe coding**。大约在去年感恩节前后，模型强到让这个"玩具"变成了真家伙，也就是现在大家说的 **Agentic Engineering（智能体工程）**。它是我现在还能持续交付产品的唯一原因。今年我做出了 [last30days](https://github.com/mvanhorn/last30days-skill)（2.7 万 star）、[Printing Press](https://github.com/mvanhorn/cli-printing-press)（4000+ star）、刚上线的 [Agent Cookie](https://github.com/mvanhorn/agentcookie)，还成了几个超大型开源项目的头部贡献者：Python、Go、GStack、Paperclip。上一次我做出别人觉得有价值的软件，还是高中时候的事。下面这些就是我的技巧。
 
 > **YOLO 极速版技巧**：把这整篇文章粘贴给你的 AI 智能体，让它据此做一份"把文中所有东西都搭起来"的计划，然后一条一条照着执行。这就是我的全套工作流，你连读都不用读。
